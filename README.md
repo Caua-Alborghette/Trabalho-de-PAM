@@ -17,6 +17,7 @@ Solução: HospiFlow - Sistema Inteligente de Triagem Hospitalar
 	Os pacientes recebem notificações em tempo real sobre seu status na fila e podem agendar horários com base na disponibilidade médica.
 
 ⚙️ Arquitetura do Banco de Dados
+
 	Usaremos um banco de dados híbrido para garantir:
 
 	Escalabilidade (para hospitais de pequeno e grande portes)
@@ -61,6 +62,7 @@ Funcionamento para Pacientes
 
 
 📍 Sugestão Prática para TCC
+
 	App Mobile: Flutter + Firestore (mais documentação)
 		(Linguagem de programação: Dart ---> Orientada a objeto, parecido com javascript e c#)
 
