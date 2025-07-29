@@ -69,3 +69,28 @@ Funcionamento para Pacientes
 
 	Banco: Firestore (NoSQL)
 		(banco de dados próprio do firebase)
+
+
+
+
+Fluxo de Trabalho para o Grupo:
+
+	Filipe e Cauã (com acesso integral às máquinas):
+		Commitam diretamente no branch main ou dev
+		Gerenciam merges
+  
+	Lucas e João (acesso limitado):
+		Trabalham em branches temporários via GitHub Web (ou app mobile)
+
+Soluções para Membros sem Máquina
+
+	GitHub Codespaces (IDE online grátis):
+		Acesso via navegador
+		60h/mês grátis para cada conta
+  
+	VS Code Online (vscode.dev):
+		Conecta direto ao repositório
+		Edição básica sem instalação
+  
+	GitHub Mobile (para revisão):
+		Aprova PRs, comenta, fecha issues
