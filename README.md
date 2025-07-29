@@ -12,6 +12,7 @@ Dia 12/08:
 
 
 Solução: HospiFlow - Sistema Inteligente de Triagem Hospitalar
+
 	📌 Conceito Principal
 	Transforme a recepção hospitalar com um sistema de triagem digital e agendamento dinâmico, eliminando filas físicas e acelerando o atendimento. 
 	Os pacientes recebem notificações em tempo real sobre seu status na fila e podem agendar horários com base na disponibilidade médica.
@@ -48,6 +49,7 @@ Funcionamento para Pacientes
 	Integração com exames/laboratório (evita filas repetidas)
 
 💡 Diferenciais Competitivos
+
 	✅ Redução de 70% no tempo de espera
 	✅ Integração com telemedicina (se sintomas forem leves)
 	✅ Relatórios para gestão hospitalar (picos de demanda, médicos mais requisitados)
